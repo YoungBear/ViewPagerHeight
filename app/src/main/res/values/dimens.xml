@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- tab layout start -->
+    <dimen name="tab_layout_height">45dp</dimen>
+    <dimen name="tab_layout_indicator_height">4dp</dimen>
+    <dimen name="tab_layout_text_size">14sp</dimen>
+    <!-- tab layout end -->
+
+    <!-- main start -->
+    <dimen name="tab_width">90dp</dimen>
+    <!-- main end -->
+
+</resources>

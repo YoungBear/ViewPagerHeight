@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewPagerHeight</string>
+
+    <string-array name="fragments_titles">
+        <item name="first">第一个</item>
+        <item name="second">第二个</item>
+        <item name="third">第三个</item>
+        <item name="fourth">第四个</item>
+    </string-array>
+
+</resources>
